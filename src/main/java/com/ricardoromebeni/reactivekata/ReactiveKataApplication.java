@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ReactiveKataApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ReactiveKataApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ReactiveKataApplication.class, args);
+    }
 
 }
